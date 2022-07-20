@@ -32,8 +32,8 @@ def prepare_eval_sets(caption_path, out_path):
         file_path = os.path.join("../data/deep_fashion2", file)
         shutil.copy(file_path, os.path.join(out_path, file_path.split("/")[-1]))
 
-prepare_files("validation_2022_02_07-16_42_59_fsl_train.txt", "../data/deep_fashion2/personalized_validation/codes_infer")
-prepare_files("test_2022_02_07-16_42_59_fsl_train.txt", "../data/deep_fashion2/personalized_test/codes_infer")
+prepare_files("../annotations/deep_fashion/validation_fsl_train.txt", "../data/deep_fashion2/personalized_validation/codes_infer")
+prepare_files("../annotations/deep_fashion/test_fsl_train.txt", "../data/deep_fashion2/personalized_test/codes_infer")
 
-prepare_eval_sets("captions_validation_2022_02_07-16_42_59.csv", "../data/deep_fashion2/personalized_validation/eval/test")
-prepare_eval_sets("captions_test_2022_02_07-16_42_59.csv", "../data/deep_fashion2/personalized_test/eval/test")
+prepare_eval_sets("../annotations/deep_fashion/validation_captions.csv", "../data/deep_fashion2/personalized_validation/eval/test")
+prepare_eval_sets("../annotations/deep_fashion/test_captions.csv", "../data/deep_fashion2/personalized_test/eval/test")

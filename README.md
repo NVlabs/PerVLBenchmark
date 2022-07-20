@@ -8,12 +8,12 @@ This reporsitory contains the annotations and scripts for the PerVL benchmarks r
 > "This is my unicorn, Fluffy": Personalizing frozen vision-language representations , *Niv Cohen, Rinon Gal, Eli A. Meirom, Gal Chechik, Yuval Atzmon*, ECCV 2022 (Oral)
 
 ## Setup
-1. Prepare and activate new anaconda environment
-2. Install the python packages: 
+1. Make sure you have miniconda or anaconda installed
+2. Install and activate the project conda environment
 ```
-pip install -r requirements.txt
+conda env create --file ./environment.yaml
+conda activate palavra
 pip install git+https://github.com/openai/CLIP.git
-conda install -c conda-forge faiss-cpu
 ```
 
 ## Prepare the data
