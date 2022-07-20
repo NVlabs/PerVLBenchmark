@@ -82,9 +82,9 @@ The benchmark and annotations are made available under the [CC-BY-NC-SA-4.0](htt
 
 For license information regarding the DeepFashion2 dataset and its annotations, please refer to the [official website](https://github.com/switchablenorms/DeepFashion2).
 
-YouTube-VOS dataset **annotations** were released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). For license information regarding the YouTube-VOS dataset and its annotations, please refer to the [official website](TBD).
+YouTube-VOS dataset **annotations** were released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). For license information regarding the YouTube-VOS dataset and its annotations, please refer to the [official website](https://youtube-vos.org).
 
-COCO dataset **annotations** were released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). For license information regarding the COCO dataset and its annotations, please refer to the [official website](TBD).
+COCO dataset **annotations** were released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). For license information regarding the COCO dataset and its annotations, please refer to the [official website](https://cocodataset.org).
 
 compositional-relationships-data were released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).  For license information regarding the compositional-relationships-data repository, please refer to the [official website](https://github.com/yuvalatzmon/compositional-relationships-data).
 
