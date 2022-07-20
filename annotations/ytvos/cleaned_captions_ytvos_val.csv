@@ -1,0 +1,247 @@
+image_name,coarse_grained_class,caption,class_id
+eval/images/hat_44b4dad8c9_2_00150.jpg,hat,an * on the head of a person with a dark blue shirt.,hat_44b4dad8c9_2
+eval/images/shark_2cc5d9c5f6_3_00175.jpg,shark,* is underneath the big darker shark.,shark_2cc5d9c5f6_3
+eval/images/airplane_728cda9b65_1_00085.jpg,airplane,an * with white smoke next to one with blue smoke.,airplane_728cda9b65_1
+eval/images/lion_da6003fc72_2_00145.jpg,lion,tail of * is near the legs of the man.,lion_da6003fc72_2
+eval/images/cow_161eb59aad_2_00095.jpg,cow,an * next to a baby giraffe.,cow_161eb59aad_2
+eval/images/sheep_827cf4f886_2_00090.jpg,sheep,* stands in the middle of broken branches.,sheep_827cf4f886_2
+eval/images/dog_80db581acd_2_00095.jpg,dog,an * with light brown and white fur.,dog_80db581acd_2
+eval/images/hat_eb6d7ab39e_3_00115.jpg,hat,a white * being worn by a man in a blue shirt.,hat_eb6d7ab39e_3
+eval/images/sheep_9e6ddbb52d_1_00090.jpg,sheep,an * walking in front of another sheep.,sheep_9e6ddbb52d_1
+eval/images/frisbee_c34d120a88_1_00175.jpg,frisbee,* lays on the ground between two dark square objects.,frisbee_c34d120a88_1
+eval/images/duck_4b3154c159_1_00165.jpg,duck,an * dips its head in the water.,duck_4b3154c159_1
+eval/images/bird_0866d4c5e3_1_00090.jpg,bird,an * with it's peak in the ground.,bird_0866d4c5e3_1
+eval/images/monkey_2fc9520b53_5_00175.jpg,monkey,a yellow * being held by another monkey.,monkey_2fc9520b53_5
+eval/images/person_946d71fb5d_1_00095.jpg,person,an * riding a horse.,person_946d71fb5d_1
+eval/images/person_3aa7fce8b6_1_00090.jpg,person,an * is balding.,person_3aa7fce8b6_1
+eval/images/giraffe_03a06cc98a_2_00095.jpg,giraffe,*'s neck is parallel to the pole with the thatched umbrella top.,giraffe_03a06cc98a_2
+eval/images/hat_eb6d7ab39e_2_00115.jpg,hat,* is on the head of a man whose shoulders are draped in a plaid scarf.,hat_eb6d7ab39e_2
+eval/images/sheep_a9c9c1517e_5_00055.jpg,sheep,an * is white with black splotches.,sheep_a9c9c1517e_5
+eval/images/ape_30c35c64a4_1_00145.jpg,ape,an * holding a baby.,ape_30c35c64a4_1
+eval/images/person_8ff61619f6_2_00275.jpg,person,an * in an orange dress next to a vehicle.,person_8ff61619f6_2
+eval/images/bear_728e81c319_2_00090.jpg,bear,an * walking beside a larger bear.,bear_728e81c319_2
+eval/images/zebra_f9e4cc5a0a_2_00095.jpg,zebra,* stands sideways with its rear above water touching the rear of a zebra.,zebra_f9e4cc5a0a_2
+eval/images/dolphin_0f2ab8b1ff_3_00175.jpg,dolphin,an * to the far right of the other dolphins.,dolphin_0f2ab8b1ff_3
+eval/images/parrot_c36240d96f_1_00145.jpg,parrot,an * standing over a blue shoe.,parrot_c36240d96f_1
+eval/images/parrot_365f459863_1_00175.jpg,parrot,an * closest to the corner of the roof.,parrot_365f459863_1
+eval/images/rabbit_e6295f223f_4_00175.jpg,rabbit,a small white * that would have to travel farthest to get to the opening of the box.,rabbit_e6295f223f_4
+eval/images/zebra_f9e4cc5a0a_1_00095.jpg,zebra,*'s rear end is above water and touches rear of another zebra who faces sideways.,zebra_f9e4cc5a0a_1
+eval/images/parrot_351cfd6bc5_2_00175.jpg,parrot,yellow * stands on edge of food bowl and touches a blue parrot.,parrot_351cfd6bc5_2
+eval/images/person_05a0a513df_1_00095.jpg,person,an * with a blue and yellow jacket.,person_05a0a513df_1
+eval/images/person_3a079fb484_2_00175.jpg,person,an * attached to a person.,person_3a079fb484_2
+eval/images/fish_1180cbf814_1_00175.jpg,fish,an * swimming above the rocks.,fish_1180cbf814_1
+eval/images/zebra_4783d2ab87_2_00095.jpg,zebra,"an * mostly hidden behind another animal, with only its head and back legs visible.",zebra_4783d2ab87_2
+eval/images/sheep_779e847a9a_1_00080.jpg,sheep,an * behind another sheep.,sheep_779e847a9a_1
+eval/images/cow_161eb59aad_3_00095.jpg,cow,an * grazing next to a white branch.,cow_161eb59aad_3
+eval/images/rabbit_e6295f223f_3_00175.jpg,rabbit,an * hiding inside of a box.,rabbit_e6295f223f_3
+eval/images/person_731b825695_1_00140.jpg,person,an * that is bent over.,person_731b825695_1
+eval/images/person_193ffaa217_3_00090.jpg,person,* is straddling but not seated on the bike whose front wheel touches the white line.,person_193ffaa217_3
+eval/images/sedan_5a4a785006_2_00095.jpg,sedan,a red * parked in front of a yellow car.,sedan_5a4a785006_2
+eval/images/duck_afb71e22c5_3_00090.jpg,duck,an * is almost touching a duck.,duck_afb71e22c5_3
+eval/images/monkey_2fc9520b53_1_00175.jpg,monkey,an * sitting behind six other monkeys.,monkey_2fc9520b53_1
+eval/images/earless_seal_1e1a18c45a_3_00175.jpg,earless_seal,the front of an *  with its nose extended directly upward towards the sky.,earless_seal_1e1a18c45a_3
+eval/images/rabbit_6bf584200f_2_00170.jpg,rabbit,an * stands behind white bars.,rabbit_6bf584200f_2
+eval/images/giraffe_c3be369fdb_3_00090.jpg,giraffe,* stands alone facing forward by a group of rocks.,giraffe_c3be369fdb_3
+eval/images/person_d38bc77e2c_1_00195.jpg,person,an * wearing a black and white striped shirt.,person_d38bc77e2c_1
+eval/images/monkey_ff5a1ec4f3_2_00175.jpg,monkey,an * standing on the back of a bicycle.,monkey_ff5a1ec4f3_2
+eval/images/person_0891ac2eb6_3_00080.jpg,person,an * sitting on a chair talking to someone.,person_0891ac2eb6_3
+eval/images/parrot_5158d6e985_2_00175.jpg,parrot,an * perched on a branch while facing right.,parrot_5158d6e985_2
+eval/images/zebra_6cccc985e0_1_00095.jpg,zebra,* is closest to the zebra that faces directly forward.,zebra_6cccc985e0_1
+eval/images/sheep_b4d84bc371_5_00175.jpg,sheep,an * has a blue tag on its ear.,sheep_b4d84bc371_5
+eval/images/dolphin_24866b4e6a_3_00145.jpg,dolphin,an * crosses a large dolphins rear fin while swimming down.,dolphin_24866b4e6a_3
+eval/images/person_51e85b347b_2_00175.jpg,person,an * driving a red motorcycle with their left foot on the ground.,person_51e85b347b_2
+eval/images/fish_a74b9ca19c_2_00175.jpg,fish,an * below the skinniest gray fish.,fish_a74b9ca19c_2
+eval/images/person_4baa1ed4aa_2_00090.jpg,person,an * in the back window of the fire truck.,person_4baa1ed4aa_2
+eval/images/dog_e33c18412a_1_00070.jpg,dog,* faces away from the white curb.,dog_e33c18412a_1
+eval/images/bucket_ab33a18ded_2_00095.jpg,bucket,a red * resting on the edge of a sandbox.,bucket_ab33a18ded_2
+eval/images/person_454f227427_2_00240.jpg,person,an * with long black hair.,person_454f227427_2
+eval/images/ape_551acbffd5_1_00145.jpg,ape,"an adult * that is partially hidden behind a log, but face still mostly visible.",ape_551acbffd5_1
+eval/images/duck_466ba4ae0c_4_00175.jpg,duck,* is completely behind the pace of the walking man.,duck_466ba4ae0c_4
+eval/images/bird_c9c3cb3797_3_00090.jpg,bird,an * in the middle of the rocks.,bird_c9c3cb3797_3
+eval/images/earless_seal_1e1a18c45a_2_00175.jpg,earless_seal,"an * on the rocks, farthest away from the source of water.",earless_seal_1e1a18c45a_2
+eval/images/dolphin_8bdb091ccf_1_00175.jpg,dolphin,* is closest to the sharper corner of the pool.,dolphin_8bdb091ccf_1
+eval/images/ape_64453cf61d_3_00175.jpg,ape,an * moving through a doorway.,ape_64453cf61d_3
+eval/images/person_8ff61619f6_3_00275.jpg,person,an * is closest to the street from the middle door.,person_8ff61619f6_3
+eval/images/person_94cf3a8025_2_00095.jpg,person,an * wearing white pants.,person_94cf3a8025_2
+eval/images/sheep_07353b2a89_2_00145.jpg,sheep,rear of * is behind the man's bent leg.,sheep_07353b2a89_2
+eval/images/sign_77ba4edc72_2_00095.jpg,sign,an * at the front of the drive way.,sign_77ba4edc72_2
+eval/images/duck_2e03b8127a_2_00175.jpg,duck,*'s body appears to touch the curved black neck of a goose.,duck_2e03b8127a_2
+eval/images/sheep_1aa3da3ee3_3_00145.jpg,sheep,an * is only visible by its tail.,sheep_1aa3da3ee3_3
+eval/images/sheep_827cf4f886_1_00090.jpg,sheep,an * in the middle of the others sheep.,sheep_827cf4f886_1
+eval/images/hat_44b4dad8c9_3_00150.jpg,hat,* is on the head of the person wearing dark goggles.,hat_44b4dad8c9_3
+eval/images/person_362c5bc56e_3_00175.jpg,person,an * wearing a white shirt.,person_362c5bc56e_3
+eval/images/sedan_5a4a785006_3_00095.jpg,sedan,* is directly behind a red car.,sedan_5a4a785006_3
+eval/images/fish_2bab50f9a7_2_00175.jpg,fish,* is directly next to and facing the aquarium's glass side.,fish_2bab50f9a7_2
+eval/images/person_2f97d9fecb_3_00095.jpg,person,an * bending over in a white shirt.,person_2f97d9fecb_3
+eval/images/person_939bdf742e_2_00190.jpg,person,an * wearing a dark blue jacket.,person_939bdf742e_2
+eval/images/person_165c3c8cd4_1_00095.jpg,person,an * wearing a black and white striped shirt.,person_165c3c8cd4_1
+eval/images/giraffe_c8f494f416_3_00095.jpg,giraffe,an * behind two other giraffes.,giraffe_c8f494f416_3
+eval/images/penguin_2db0576a5c_1_00175.jpg,penguin,an * stands alone.,penguin_2db0576a5c_1
+eval/images/plant_4c25dfa8ec_2_00170.jpg,plant,* is between the two shorter white pillars.,plant_4c25dfa8ec_2
+eval/images/fish_a74b9ca19c_1_00175.jpg,fish,an * with a black and white tail.,fish_a74b9ca19c_1
+eval/images/tiger_4e824b9247_3_00175.jpg,tiger,a baby * pushing its snout into fur.,tiger_4e824b9247_3
+eval/images/person_485f3944cd_2_00100.jpg,person,an * rows while shirtless.,person_485f3944cd_2
+eval/images/person_d38bc77e2c_2_00195.jpg,person,* walks behind the crouching white-shirted person.,person_d38bc77e2c_2
+eval/images/horse_f54c67b9bb_1_00095.jpg,horse,an * is white with large brown spots.,horse_f54c67b9bb_1
+eval/images/person_ff15a5eff6_1_00140.jpg,person,"an * in midair, riding a dirt bike.",person_ff15a5eff6_1
+eval/images/airplane_728cda9b65_2_00085.jpg,airplane,* is at the front of a v-shaped formation.,airplane_728cda9b65_2
+eval/images/sedan_a2c996e429_3_00295.jpg,sedan,a black * next to a bus.,sedan_a2c996e429_3
+eval/images/duck_83d40bcba5_3_00085.jpg,duck,* is standing out of the pool of water and facing away from it.,duck_83d40bcba5_3
+eval/images/person_540850e1c7_2_00195.jpg,person,an * wearing a black shirt and a white helmet.,person_540850e1c7_2
+eval/images/ape_efce0c1868_5_00175.jpg,ape,* is hidden behind the crouching ape.,ape_efce0c1868_5
+eval/images/person_4fdfef4dea_3_00090.jpg,person,an * riding a bike that will reach the downward hill second.,person_4fdfef4dea_3
+eval/images/person_a99738f24c_3_00160.jpg,person,* faces forward and shakes hand of man facing water.,person_a99738f24c_3
+eval/images/person_4fdfef4dea_1_00090.jpg,person,* is riding on the fluorescent green bicycle.,person_4fdfef4dea_1
+eval/images/penguin_dc704dd647_2_00175.jpg,penguin,an * walking behind another penguin.,penguin_dc704dd647_2
+eval/images/person_05a0a513df_2_00095.jpg,person,an * wearing a beige jacket.,person_05a0a513df_2
+eval/images/person_a4757bd7af_2_00095.jpg,person,an * in riding attire on a horse.,person_a4757bd7af_2
+eval/images/dog_76962c7ed2_2_00070.jpg,dog,* is face to face with a slightly bigger black dog.,dog_76962c7ed2_2
+eval/images/frisbee_f7782c430e_2_00145.jpg,frisbee,* is held next to a white frisbee.,frisbee_f7782c430e_2
+eval/images/monkey_2fc9520b53_2_00175.jpg,monkey,"an * holding food in its right hand, facing away from the rest.",monkey_2fc9520b53_2
+eval/images/giraffe_03a06cc98a_1_00095.jpg,giraffe,an * that isn't tall enough to peek its head over the fence.,giraffe_03a06cc98a_1
+eval/images/zebra_4783d2ab87_3_00095.jpg,zebra,* stands parallel behind a zebra but facing the opposite direction.,zebra_4783d2ab87_3
+eval/images/person_e42b6d3dbb_2_00110.jpg,person,an * wearing a black shirt.,person_e42b6d3dbb_2
+eval/images/person_79f014085e_1_00090.jpg,person,an * directly behind a brown horse.,person_79f014085e_1
+eval/images/person_5914c30f05_3_00095.jpg,person,an * wearing a blue shirt standing behind a tree.,person_5914c30f05_3
+eval/images/person_454f227427_1_00240.jpg,person,an * marching between two girls.,person_454f227427_1
+eval/images/penguin_18b245ab49_1_00090.jpg,penguin,an * in front of the other penguins.,penguin_18b245ab49_1
+eval/images/penguin_2db0576a5c_2_00175.jpg,penguin,* is the most forward in a group of four.,penguin_2db0576a5c_2
+eval/images/fish_1180cbf814_2_00175.jpg,fish,a yellow * swimming above a white fish.,fish_1180cbf814_2
+eval/images/dog_2a18873352_2_00090.jpg,dog,a white * playing with a black dog.,dog_2a18873352_2
+eval/images/person_8dd3ab71b9_1_00090.jpg,person,an * with a blue shirt in last place.,person_8dd3ab71b9_1
+eval/images/giraffe_189ac8208a_2_00090.jpg,giraffe,* stands under a high metal rack that holds hay.,giraffe_189ac8208a_2
+eval/images/person_e5ce96a55d_1_00060.jpg,person,an * wearing a black shirt and white gloves.,person_e5ce96a55d_1
+eval/images/monkey_838eb3bd89_1_00175.jpg,monkey,an * with brown fir in a red shirt.,monkey_838eb3bd89_1
+eval/images/person_165c3c8cd4_2_00095.jpg,person,an * with a strap on their back,person_165c3c8cd4_2
+eval/images/bear_c279e641ee_1_00095.jpg,bear,an * holding a paw off the ground.,bear_c279e641ee_1
+eval/images/person_c92c8c3c75_3_00095.jpg,person,* stands fully upright by a greenish boat on the water's edge.,person_c92c8c3c75_3
+eval/images/person_3a079fb484_1_00175.jpg,person,an * attached to a person.,person_3a079fb484_1
+eval/images/person_9002761b41_3_00095.jpg,person,an * in a black and white shirt rides a black horse.,person_9002761b41_3
+eval/images/person_59b175e138_1_00095.jpg,person,an * speaks into the microphone.,person_59b175e138_1
+eval/images/sheep_a7491f1578_3_00145.jpg,sheep,*'s rear is overlapped by the black face of a young sheep.,sheep_a7491f1578_3
+eval/images/monkey_08e1e4de15_4_00175.jpg,monkey,a small * perched on the largest standalone rock with its arm partially covering its face.,monkey_08e1e4de15_4
+eval/images/dolphin_c27adaeac5_2_00175.jpg,dolphin,an * under the bigger dolphin.,dolphin_c27adaeac5_2
+eval/images/person_0321b18c10_1_00090.jpg,person,an * wearing a tank top.,person_0321b18c10_1
+eval/images/rabbit_6bf584200f_1_00170.jpg,rabbit,an * behind the links.,rabbit_6bf584200f_1
+eval/images/person_d9e52be2d2_1_00095.jpg,person,an * wearing a yellow shirt standing on a boat.,person_d9e52be2d2_1
+eval/images/dolphin_c27adaeac5_3_00175.jpg,dolphin,* is obscured behind a big dophin.,dolphin_c27adaeac5_3
+eval/images/dolphin_0f2ab8b1ff_2_00175.jpg,dolphin,* is closest to the gray dolphin with the most curving body.,dolphin_0f2ab8b1ff_2
+eval/images/zebra_6cccc985e0_2_00095.jpg,zebra,* stands apart from other similar entities and faces forward.,zebra_6cccc985e0_2
+eval/images/monkey_ff5a1ec4f3_4_00175.jpg,monkey,an * looking at a bicycle pedal.,monkey_ff5a1ec4f3_4
+eval/images/plant_4c25dfa8ec_3_00170.jpg,plant,* is next to the shorter white pillar and no other pillar.,plant_4c25dfa8ec_3
+eval/images/rabbit_e6295f223f_1_00175.jpg,rabbit,an * hiding behind a box closest to the side without a side flap extending outward.,rabbit_e6295f223f_1
+eval/images/duck_afb71e22c5_1_00090.jpg,duck,an * looks at the duck to its right.,duck_afb71e22c5_1
+eval/images/fish_2bab50f9a7_1_00175.jpg,fish,an * nibbling the tail of a fish.,fish_2bab50f9a7_1
+eval/images/person_0a23765d15_2_00135.jpg,person,an * behind a box.,person_0a23765d15_2
+eval/images/earless_seal_1e1a18c45a_1_00175.jpg,earless_seal,* is poised with its chest over a gap in the rock.,earless_seal_1e1a18c45a_1
+eval/images/cow_282b0d51f5_1_00095.jpg,cow,* faces away from the darker cow.,cow_282b0d51f5_1
+eval/images/plant_01c76f0a82_3_00095.jpg,plant,* is visible directly above the top of the white car.,plant_01c76f0a82_3
+eval/images/person_c079a6482d_1_00095.jpg,person,* is astride the horse with the bright white facial coloring.,person_c079a6482d_1
+eval/images/leopard_9eadcea74f_2_00170.jpg,leopard,* is on a tree's trunk.,leopard_9eadcea74f_2
+eval/images/person_939bdf742e_1_00190.jpg,person,an * wearing a white coat.,person_939bdf742e_1
+eval/images/sheep_07353b2a89_1_00145.jpg,sheep,an * closest to the gate.,sheep_07353b2a89_1
+eval/images/person_54657855cd_2_00095.jpg,person,an * wearing white and red shorts.,person_54657855cd_2
+eval/images/sheep_9e6ddbb52d_2_00090.jpg,sheep,an * walking behind another sheep.,sheep_9e6ddbb52d_2
+eval/images/tiger_4e824b9247_2_00175.jpg,tiger,*'s back is touched by the muzzle of a tiger cub.,tiger_4e824b9247_2
+eval/images/person_54657855cd_3_00095.jpg,person,* is riding closest to a stone wall.,person_54657855cd_3
+eval/images/frisbee_c34d120a88_2_00175.jpg,frisbee,an * is in a boy's hand.,frisbee_c34d120a88_2
+eval/images/sheep_b4d84bc371_3_00175.jpg,sheep,hornless * stands facing forward in front of a horned sheep.,sheep_b4d84bc371_3
+eval/images/person_d9e52be2d2_3_00095.jpg,person,an * standing on the middle boat.,person_d9e52be2d2_3
+eval/images/dolphin_8bdb091ccf_2_00175.jpg,dolphin,an * behind someone talking on a microphone.,dolphin_8bdb091ccf_2
+eval/images/bird_c9c3cb3797_1_00090.jpg,bird,an * perched on a rock while facing to the right.,bird_c9c3cb3797_1
+eval/images/person_51e85b347b_1_00175.jpg,person,an * wearing a black helmet and a black jacket.,person_51e85b347b_1
+eval/images/person_2f97d9fecb_2_00095.jpg,person,an * standing next to a bent over person.,person_2f97d9fecb_2
+eval/images/sedan_a2c996e429_2_00295.jpg,sedan,a four-door * closest to the side of the road with palm trees and a picket fence.,sedan_a2c996e429_2
+eval/images/frisbee_65ab7e1d98_4_00175.jpg,frisbee,an * completely flat on the ground and by the back foot of a dog.,frisbee_65ab7e1d98_4
+eval/images/sign_77ba4edc72_3_00095.jpg,sign,* is on a post at the corner of the green lawn and brick drive.,sign_77ba4edc72_3
+eval/images/dolphin_24866b4e6a_1_00145.jpg,dolphin,an * in the middle of other dolphins.,dolphin_24866b4e6a_1
+eval/images/bear_f9d3e04c4f_1_00090.jpg,bear,an * with dark brown fur.,bear_f9d3e04c4f_1
+eval/images/person_485f3944cd_3_00100.jpg,person,an * wearing a red hat.,person_485f3944cd_3
+eval/images/person_75504539c3_4_00090.jpg,person,an * wearing a black and white helmet.,person_75504539c3_4
+eval/images/shark_2cc5d9c5f6_2_00175.jpg,shark,an * behind the other sharks.,shark_2cc5d9c5f6_2
+eval/images/monkey_2fc9520b53_3_00175.jpg,monkey,an * sitting next to an animal with food in its right hand.,monkey_2fc9520b53_3
+eval/images/monkey_2fc9520b53_4_00175.jpg,monkey,an * holding a small yellow monkey.,monkey_2fc9520b53_4
+eval/images/person_540850e1c7_1_00195.jpg,person,* is astride a bike labeled with card 33.,person_540850e1c7_1
+eval/images/person_4baa1ed4aa_3_00090.jpg,person,* is partly out the truck's middle window.,person_4baa1ed4aa_3
+eval/images/turtle_beeb8a3f92_3_00145.jpg,turtle,an * with its face closest to the red empty bowl.,turtle_beeb8a3f92_3
+eval/images/ape_30c35c64a4_2_00145.jpg,ape,an * clinging to a large gorilla.,ape_30c35c64a4_2
+eval/images/person_c079a6482d_3_00095.jpg,person,an * on a horse beneath a ford advertisement.,person_c079a6482d_3
+eval/images/person_bb89a6b18a_3_00085.jpg,person,an * wearing red and white shorts.,person_bb89a6b18a_3
+eval/images/person_4db117e6c5_3_00090.jpg,person,an * wearing a black jacket in front of a white sign.,person_4db117e6c5_3
+eval/images/fish_77d8aa8691_5_00175.jpg,fish,an * in the middle of the fish.,fish_77d8aa8691_5
+eval/images/person_59b175e138_2_00095.jpg,person,an * at the front of the other people.,person_59b175e138_2
+eval/images/plant_4c25dfa8ec_1_00170.jpg,plant,a smaller * next to the tallest planter.,plant_4c25dfa8ec_1
+eval/images/frisbee_f7782c430e_1_00145.jpg,frisbee,* is held in hand next to a similar red object.,frisbee_f7782c430e_1
+eval/images/person_79f014085e_2_00090.jpg,person,an * behind a brown horse.,person_79f014085e_2
+eval/images/person_3c8320669c_4_00175.jpg,person,* is behind the person with a black and white cap.,person_3c8320669c_4
+eval/images/duck_afb71e22c5_2_00090.jpg,duck,an * closest to the furthest duck.,duck_afb71e22c5_2
+eval/images/parrot_351cfd6bc5_5_00175.jpg,parrot,the blue * is on a bowl that has only one other bird on its edge.,parrot_351cfd6bc5_5
+eval/images/sheep_07353b2a89_4_00145.jpg,sheep,an * directly in front of a white sign with green lettering.,sheep_07353b2a89_4
+eval/images/horse_f54c67b9bb_3_00095.jpg,horse,* is about to step from a smooth surface to rough sand.,horse_f54c67b9bb_3
+eval/images/sheep_a9c9c1517e_3_00055.jpg,sheep,an * at the front of the sheep.,sheep_a9c9c1517e_3
+eval/images/cow_282b0d51f5_2_00095.jpg,cow,an * in front of a person on a gate.,cow_282b0d51f5_2
+eval/images/duck_3c700f073e_2_00175.jpg,duck,* is slightly lower than the duck next to it.,duck_3c700f073e_2
+eval/images/plant_01c76f0a82_2_00095.jpg,plant,* appears to be above the hood of the dark red car.,plant_01c76f0a82_2
+eval/images/person_d9e52be2d2_2_00095.jpg,person,"an * with their face visible, sitting higher than the others on the red boat.",person_d9e52be2d2_2
+eval/images/bucket_ab33a18ded_3_00095.jpg,bucket,a red * laying by a yellow shovel.,bucket_ab33a18ded_3
+eval/images/giraffe_03a06cc98a_3_00095.jpg,giraffe,an * that could eat from higher branches the others may not be able to even reach.,giraffe_03a06cc98a_3
+eval/images/bear_c279e641ee_2_00095.jpg,bear,* stands behind a similar bear with lowered head.,bear_c279e641ee_2
+eval/images/person_bb721eb9aa_3_00175.jpg,person,an * in the pool next to chairs.,person_bb721eb9aa_3
+eval/images/fish_26f7784762_2_00175.jpg,fish,* is directly above a green leaf and faces forward.,fish_26f7784762_2
+eval/images/duck_2e03b8127a_1_00175.jpg,duck,an * about to step onto the street.,duck_2e03b8127a_1
+eval/images/shark_ae1bcbd423_2_00175.jpg,shark,an * furthest from the humans.,shark_ae1bcbd423_2
+eval/images/frisbee_65ab7e1d98_5_00175.jpg,frisbee,an * falling to the ground.,frisbee_65ab7e1d98_5
+eval/images/turtle_beeb8a3f92_2_00145.jpg,turtle,an * hiding between a box and two other turtles.,turtle_beeb8a3f92_2
+eval/images/person_946d71fb5d_3_00095.jpg,person,an * in a white shirt.,person_946d71fb5d_3
+eval/images/lion_bb1c770fe7_3_00145.jpg,lion,an * laying on the ground between two trees.,lion_bb1c770fe7_3
+eval/images/person_c92c8c3c75_2_00095.jpg,person,an * wearing a white t-shirt standing behind a person with a yellow t-shirt.,person_c92c8c3c75_2
+eval/images/zebra_13e3070469_2_00200.jpg,zebra,a black and white * that is smaller than the others in a natural environment.,zebra_13e3070469_2
+eval/images/zebra_5ed838bd5c_3_00095.jpg,zebra,"* stands on the edge of watering hole, not in it, facing away from it.",zebra_5ed838bd5c_3
+eval/images/duck_466ba4ae0c_3_00175.jpg,duck,an * with brown feathers.,duck_466ba4ae0c_3
+eval/images/person_8dd3ab71b9_2_00090.jpg,person,an * is one bike away from being last.,person_8dd3ab71b9_2
+eval/images/lion_da6003fc72_1_00145.jpg,lion,an * walking in front of another lion.,lion_da6003fc72_1
+eval/images/dog_2a18873352_1_00090.jpg,dog,a black * playing with a white dog.,dog_2a18873352_1
+eval/images/sheep_a7491f1578_1_00145.jpg,sheep,* is closest to the largest grazing cow.,sheep_a7491f1578_1
+eval/images/person_bb721eb9aa_1_00175.jpg,person,* is directly in front of a flat white float.,person_bb721eb9aa_1
+eval/images/person_8345358fb8_3_00090.jpg,person,an * in a white shirt and blue jeans.,person_8345358fb8_3
+eval/images/person_46146dfd39_1_00090.jpg,person,an * riding in the back of a line of people.,person_46146dfd39_1
+eval/images/cow_77610860e0_3_00055.jpg,cow,an * watches calves play.,cow_77610860e0_3
+eval/images/person_c55784c766_1_00175.jpg,person,an * with green and blue jacket.,person_c55784c766_1
+eval/images/ape_64453cf61d_2_00175.jpg,ape,* is closest to the middle of the wire fence.,ape_64453cf61d_2
+eval/images/person_d38bc77e2c_3_00195.jpg,person,* stands partly obscured by person in striped shirt.,person_d38bc77e2c_3
+eval/images/fish_26f7784762_1_00175.jpg,fish,* is highest above the green leaves.,fish_26f7784762_1
+eval/images/sheep_07353b2a89_3_00145.jpg,sheep,an * between the man's legs.,sheep_07353b2a89_3
+eval/images/person_0321b18c10_2_00090.jpg,person,an * wearing a red shirt.,person_0321b18c10_2
+eval/images/cat_4918d10ff0_3_00090.jpg,cat,an * behind the other two cats.,cat_4918d10ff0_3
+eval/images/dog_80db581acd_3_00095.jpg,dog,* is behind and alongside a dog.,dog_80db581acd_3
+eval/images/zebra_5ed838bd5c_2_00095.jpg,zebra,an * standing on land close to water.,zebra_5ed838bd5c_2
+eval/images/ape_efce0c1868_2_00175.jpg,ape,"an * sitting, facing two other animals with only it's back and left arm visible.",ape_efce0c1868_2
+eval/images/duck_8799ab0118_2_00095.jpg,duck,a black and white *.,duck_8799ab0118_2
+eval/images/sheep_1aa3da3ee3_4_00145.jpg,sheep,an * standing in front of  the farthest sheep.,sheep_1aa3da3ee3_4
+eval/images/sheep_b4d84bc371_2_00175.jpg,sheep,an * to the side of a sheep with a blue ear tag.,sheep_b4d84bc371_2
+eval/images/ape_551acbffd5_2_00145.jpg,ape,an * hiding behind a log.,ape_551acbffd5_2
+eval/images/person_59623ec40b_2_00090.jpg,person,"an * on stage, standing up straighter than the others with a flat back.",person_59623ec40b_2
+eval/images/sheep_f5966cadd2_2_00175.jpg,sheep,an * standing between two other sheep.,sheep_f5966cadd2_2
+eval/images/person_8345358fb8_1_00090.jpg,person,an * walking along the train in a gray sweater.,person_8345358fb8_1
+eval/images/person_46146dfd39_3_00090.jpg,person,*'s bike is not in line with the long row of bikes.,person_46146dfd39_3
+eval/images/zebra_13e3070469_3_00200.jpg,zebra,"* walks alongside a small, young zebra.",zebra_13e3070469_3
+eval/images/elephant_0358b938c1_2_00230.jpg,elephant,an * sitting in the water with its front feet above the surface.,elephant_0358b938c1_2
+eval/images/sheep_779e847a9a_2_00080.jpg,sheep,an * that appears to have made it to the top of the hill sooner.,sheep_779e847a9a_2
+eval/images/person_5914c30f05_2_00095.jpg,person,an * with green cylinders in their hand.,person_5914c30f05_2
+eval/images/sheep_9d407c3aeb_1_00095.jpg,sheep,an * behind another sheep.,sheep_9d407c3aeb_1
+eval/images/person_4db117e6c5_2_00090.jpg,person,an * in a red coat walking behind a pole.,person_4db117e6c5_2
+eval/images/sheep_8891aa6dfa_1_00090.jpg,sheep,a young * farthest away from the only adult.,sheep_8891aa6dfa_1
+eval/images/bear_728e81c319_1_00090.jpg,bear,an * is near the water with its baby.,bear_728e81c319_1
+eval/images/airplane_728cda9b65_3_00085.jpg,airplane,* is next to and slightly ahead of the lead plane trailing red smoke.,airplane_728cda9b65_3
+eval/images/truck_b4807569a5_3_00095.jpg,truck,an * close to a white building.,truck_b4807569a5_3
+eval/images/person_9002761b41_1_00095.jpg,person,an * in a red shirt rides a black horse.,person_9002761b41_1
+eval/images/fish_3eb39d11ab_3_00175.jpg,fish,a black * swimming in front of a plant.,fish_3eb39d11ab_3
+eval/images/fish_981ff580cf_1_00175.jpg,fish,a white * in the back of the tank.,fish_981ff580cf_1
+eval/images/giraffe_c3be369fdb_2_00090.jpg,giraffe,* is directly above a zebra and facing the same direction as it.,giraffe_c3be369fdb_2
+eval/images/hat_44b4dad8c9_1_00150.jpg,hat,* is atop the head of a man wearing red shorts.,hat_44b4dad8c9_1
+eval/images/person_0891ac2eb6_2_00080.jpg,person,an * sitting next to a woman.,person_0891ac2eb6_2
+eval/images/person_362c5bc56e_1_00175.jpg,person,an * wearing a blue shirt.,person_362c5bc56e_1
+eval/images/parrot_365f459863_2_00175.jpg,parrot,* faces the corner of the brick ledge.,parrot_365f459863_2
+eval/images/person_27659fa7d6_3_00175.jpg,person,an * wearing a red shirt.,person_27659fa7d6_3
+eval/images/person_3c8320669c_2_00175.jpg,person,an * in all black riding a wave on a surfboard.,person_3c8320669c_2
+eval/images/fish_981ff580cf_2_00175.jpg,fish,an * directly above the black power supply to the pump.,fish_981ff580cf_2
