@@ -69,9 +69,9 @@ and save under the directory:
 directory | file | description
 ---|---|---
 `annotations/` | * | CSV and YAML files with the split and annotation we prepared for PerVL-DeepFashion2 and PerVL-YTVOS. 
-`deep_fashion/` | * | Scripts to create a folder strucutre for the deep_fashion2 dataset to be used with our PALVRA method
-`ytvos/` | * | Scripts to create a folder strucutre for the youtube-vos dataset to be used with our PALVRA method
-`inversion_training/` | * | Scripts to preprocess ms-coco data to train the inversion module (f_theta) of our PALVRA method
+`deep_fashion/` | * | Scripts to create a folder strucutre for the deep_fashion2 benchmark
+`ytvos/` | * | Scripts to create a folder strucutre for the youtube-vos benchmark
+`inversion_training/` | * | Scripts to preprocess ms-coco data for training an inversion module
 
 
 ## License and attribution
